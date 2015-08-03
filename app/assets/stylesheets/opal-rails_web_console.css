@@ -1,0 +1,16 @@
+/*
+ *= require jquery-ui/dialog
+ *= require codemirror
+ *= require opal-irb/jqconsole
+ *= require_self
+ */
+
+#opal-irb-console {
+  /* use same color as rails web-console */
+  background-color: #333;
+}
+
+#opal-irb-console-topbar-title {
+  display: inline-block; vertical-align: middle; /* vertical center */
+  text-indent: 6px;
+}

@@ -1,4 +1,5 @@
 require "opal/rails/web_console/version"
+require "opal/rails/web_console/engine"
 
 module Opal
   module Rails

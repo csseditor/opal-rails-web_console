@@ -8,6 +8,7 @@
 #opal-irb-console {
   /* use same color as rails web-console */
   background-color: #333;
+  height: 200px;
 }
 
 #opal-irb-console-topbar-title {

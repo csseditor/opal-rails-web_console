@@ -29,6 +29,10 @@ And then execute:
 
     <%= opal_console %>
 
+## Screenshots
+
+  ![screen shot 2015-08-30 at 7 00 25 pm](https://cloud.githubusercontent.com/assets/71397/9566898/fc9264f4-4f4a-11e5-9489-f2950204a627.png)
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `bin/console` for an interactive prompt that will allow you to experiment.
